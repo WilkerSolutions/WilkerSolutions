@@ -4,7 +4,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000099&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Seja+Bem+Vindo!;Esse+é+o+repositório+da+Wilker+Solutions!)](https://git.io/typing-svg)
 
 <div align="center">
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=WilkerSolutions&theme=prussian&show_icons=true" alt="Andreza-g github stats" /> 
+<h4 align="center">Profile stats :musical_keyboard:</h4>
+   <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=WilkerSolutions&show_icons=true&theme=synthwave" alt="WilkerSolutions :: Profile Stats" /></p>
 </div>  
 <div align="center"><br><b>
    Principais linguagens 👇
@@ -40,17 +41,15 @@
    <a href="https://www.wilkersolutions-ti.com/" target="_blank"><img src="https://img.shields.io/badge/Wilker_Solutions-0078D7?style=for-the-badge&logoColor=white"></a>   
 </div>
  <br>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
-<h4 align="center">Visitor's count :eyes:</h4>
+   <h4 align="center">Visitor's count :eyes:</h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{AnhellO}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
 
 <h4 align="center">Top langs :tongue:</h4>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhellO&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
 
-<h4 align="center">Profile stats :musical_keyboard:</h4>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AnhellO&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
 
-<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
+
 
