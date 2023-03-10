@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000099&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Seja+Bem+Vindo!;Esse+é+o+repositório+da+Wilker+Solutions!)](https://git.io/typing-svg)
 
 <div align="center">
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=WilkerSolutions&theme=kacho_ga&show_icons=true" alt="Andreza-g github stats" /> 
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=WilkerSolutions&theme=prussian&show_icons=true" alt="Andreza-g github stats" /> 
 </div>  
 <div align="center"><br><b>
    Principais linguagens 👇
