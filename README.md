@@ -36,7 +36,6 @@
   
 </div>
 <div align="center"> <br>
-   <a href = "mailto:andreza.ribeiro2706@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"           target="_blank"></a>
     <a href="https://www.linkedin.com/company/88032978/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
    <a href="https://www.wilkersolutions-ti.com/" target="_blank"><img src="https://img.shields.io/badge/Wilker_Solutions-0078D7?style=for-the-badge&logoColor=white"></a>   
 </div>
