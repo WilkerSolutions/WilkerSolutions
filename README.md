@@ -22,7 +22,7 @@
    Principais ferramentas 👇
   
 </div>
-<div align="center" style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br> 
   <img align="center" alt="Rafa-git" height="30" width="40" src="https://skillicons.dev/icons?i=git">
   <img align="center" alt="Rafa-github" height="30" width="40" src="https://skillicons.dev/icons?i=github">
   <img align="center" alt="Rafa-heroku" height="30" width="40" src="https://skillicons.dev/icons?i=heroku">
