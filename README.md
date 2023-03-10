@@ -41,5 +41,9 @@
 </div>
  <br>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<h4 align="center">Visitor's count :eyes:</h4>
 
+<p align="center"><img src="https://profile-counter.glitch.me/{AnhellO}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
+
+<h4 align="center">Top langs :tongue:</h4>
 
