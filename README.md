@@ -37,7 +37,7 @@
 </div>
 <div align="center"> <br>
    <a href = "mailto:andreza.ribeiro2706@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"           target="_blank"></a>
-    <a href="https://www.linkedin.com/in/andreza-gon%C3%A7alves-b69b95168/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+    <a href="https://www.linkedin.com/company/88032978/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
    <a href="https://trailblazer.me/id?lang=pt_BR" target="_blank"><img src="https://img.shields.io/badge/Trailhead-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white"></a>   
 </div>
  <br>
