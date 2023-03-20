@@ -3,10 +3,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000099&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Seja+Bem+Vindo!;Esse+é+o+repositório+da+Wilker+Solutions!)](https://git.io/typing-svg)
 
+<!-- 
 <div align="center">
 <h4 align="center">Profile stats :musical_keyboard:</h4>
    <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=WilkerSolutions&show_icons=true&theme=synthwave" alt="WilkerSolutions :: Profile Stats" /></p>
-</div>  
+</div>   -->
+
 <div align="center"><br><b>
    Principais linguagens 👇
   
